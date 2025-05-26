@@ -77,12 +77,4 @@ This demonstrates the **probability amplification** that makes Grover's algorith
 
 ---
 
-## References
-
-- [Qiskit Documentation](https://qiskit.org/documentation/)
-- [Grover's Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Grover%27s_algorithm)
-- Nielsen & Chuang, *Quantum Computation and Quantum Information*
-
----
-
 
